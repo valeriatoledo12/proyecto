@@ -1,0 +1,72 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	list-style: none;
+}
+.contenedor-padre
+{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr; 
+}
+fieldset
+{
+	width: 60%;
+	height: 90%;
+}
+.c1
+{
+	padding: 1em;
+}
+.imagen
+{
+	width: 350px;
+}
+.contacto-etiquetas
+{
+	padding-top: .5em;
+	font-family: sans-serif;
+	font-weight: bold;
+	color: white;
+	padding-bottom: 17px;
+
+
+}
+.contacto-campos
+{
+	width: 350px;
+	font-size: 1.5em;
+	font-weight: bold;
+	color: #2260ab;
+}
+.boton-enviar
+{
+	width: 400px;
+	background-color: #943b9c;
+	border-color:blueviolet;
+}
+.imagen-contacto
+{
+	width: 90%;
+	height: 60%;
+}
+.somos-titulo
+{
+	text-align: center;
+}
+.somos-p
+{
+	text-align: center;
+}
+.contacto-c1
+{
+	background-color: black;
+	text-align: center;
+	height: 90%;
+}
+h3
+{
+	text-align: center;
+	color: white;
+}
